@@ -1,4 +1,4 @@
 [workspace]
 resolver = "2"
-members = ["exercises/linear-search-exercise",
-"solutions/linear-search-solution"]
+members = ["exercises/linear-search-exercise", "solutions/aho-corasick", "solutions/arraylist", "solutions/avl-tree", "solutions/b-tree", "solutions/bellman-ford", "solutions/bfs-unweighted", "solutions/binary-heap", "solutions/binary-search", "solutions/binary-search-tree", "solutions/boyer-moore", "solutions/breadth-first-search", "solutions/depth-first-search", "solutions/dijkstra", "solutions/doubly-linked-list", "solutions/edit-distance", "solutions/floyd-warshall", "solutions/hash-table", "solutions/kruskal", "solutions/kunth-morris-pratt",
+"solutions/linear-search-solution", "solutions/longest-common-sequence", "solutions/prim", "solutions/quadratic-search", "solutions/rabin-karp", "solutions/red-black-tree", "solutions/splay-tree", "solutions/strongly-connected-components", "solutions/topological-sort", "solutions/trie", "solutions/vector"]
